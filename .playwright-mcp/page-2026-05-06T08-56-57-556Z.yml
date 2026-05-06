@@ -1,0 +1,182 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - heading "Tem 18 anos ou mais?" [level=2] [ref=e4]
+    - generic [ref=e5]:
+      - button "Sim" [ref=e6] [cursor=pointer]
+      - button "Não" [ref=e7] [cursor=pointer]
+  - navigation [ref=e8]:
+    - 'heading "ADVERTÊNCIA: ESTE PRODUTO CONTÉM NICOTINA. A NICOTINA É UMA SUBSTÂNCIA VICÍANTE." [level=1] [ref=e9]'
+    - generic [ref=e10]:
+      - link "Fumot - vapes descartáveis e cigarro eletrónico em Portugal" [ref=e12] [cursor=pointer]:
+        - /url: https://vapeportugal.pt/
+        - img "Fumot - vapes descartáveis e cigarro eletrónico em Portugal" [ref=e13]
+      - list [ref=e14]:
+        - listitem [ref=e15]:
+          - link "Página Inicial" [ref=e16] [cursor=pointer]:
+            - /url: https://vapeportugal.pt/
+        - listitem [ref=e17]:
+          - link "Produtos" [ref=e18] [cursor=pointer]:
+            - /url: https://vapeportugal.pt/collections/fumot-vapes-descartaveis-portugal
+        - listitem [ref=e19]:
+          - link "Sobre nós" [ref=e20] [cursor=pointer]:
+            - /url: https://vapeportugal.pt/pages/sobre-nos
+        - listitem [ref=e21]:
+          - link "Blog" [ref=e22] [cursor=pointer]:
+            - /url: https://vapeportugal.pt/blogs/news
+        - listitem [ref=e23]:
+          - link "Contacto" [ref=e24] [cursor=pointer]:
+            - /url: https://vapeportugal.pt/pages/contacto
+  - generic [ref=e26]:
+    - generic [ref=e28]:
+      - img "Fumot Eco 2 em 1 - 50K - vape descartável com 50000 puffs e sabores de vape" [ref=e30]
+      - img "Fumot Leopard 40K - cigarro eletrónico descartável com grande autonomia" [ref=e32]
+      - img "Fumot Digital Monkey 40K - vape com nicotina e 40000 puffs" [ref=e34]
+    - 'heading "Fumot: Vapes Descartáveis Com Nicotina e Muitos Puffs." [level=1] [ref=e35]'
+    - button "COMPRAR AGORA" [ref=e37] [cursor=pointer]:
+      - link "COMPRAR AGORA" [ref=e38]:
+        - /url: https://vapeportugal.pt/products/fumot-eco-50k-vape-descartavel-portugal
+  - generic [ref=e39]:
+    - button "Slide anterior" [ref=e40] [cursor=pointer]:
+      - img [ref=e41]
+    - generic [ref=e44]:
+      - link "Fumot Digital Box 12K - vapes descartáveis com ecrã e 12000 puffs Fumot Digital Box 12K Vape Descartável" [ref=e45] [cursor=pointer]:
+        - /url: https://vapeportugal.pt/products/fumot-digital-box-12k-vape-descartavel-portugal
+        - img "Fumot Digital Box 12K - vapes descartáveis com ecrã e 12000 puffs" [ref=e47]
+        - generic:
+          - heading "Fumot Digital Box 12K" [level=3]
+          - paragraph: Vape Descartável
+      - link "Fumot T9000 9K - cigarro eletrónico descartável com 9000 puffs e vapor suave Fumot T9000 9K Vape Descartável" [ref=e48] [cursor=pointer]:
+        - /url: https://vapeportugal.pt/products/fumot-t9000-9k-vape-descartavel-portugal
+        - img "Fumot T9000 9K - cigarro eletrónico descartável com 9000 puffs e vapor suave" [ref=e50]
+        - generic:
+          - heading "Fumot T9000 9K" [level=3]
+          - paragraph: Vape Descartável
+      - link "Fumot Tornado 15K - vape descartável com 15000 puffs e sabores de vape Fumot Tornado 15K Vape Descartável" [ref=e51] [cursor=pointer]:
+        - /url: https://vapeportugal.pt/products/fumot-tornado-15k-vape-descartavel-portugal
+        - img "Fumot Tornado 15K - vape descartável com 15000 puffs e sabores de vape" [ref=e53]
+        - generic:
+          - heading "Fumot Tornado 15K" [level=3]
+          - paragraph: Vape Descartável
+      - link "Fumot Tornado 25K - vape com nicotina, muitos puffs e sabor consistente Fumot Tornado 25K Vape Descartável" [ref=e54] [cursor=pointer]:
+        - /url: https://vapeportugal.pt/products/fumot-tornado-25k-vape-descartavel-portugal
+        - img "Fumot Tornado 25K - vape com nicotina, muitos puffs e sabor consistente" [ref=e56]
+        - generic:
+          - heading "Fumot Tornado 25K" [level=3]
+          - paragraph: Vape Descartável
+      - link "Fumot Tornado 30K Music - vapes descartáveis com luz, música e 30000 puffs Fumot Tornado 30K Vape Descartável" [ref=e57] [cursor=pointer]:
+        - /url: https://vapeportugal.pt/products/fumot-tornado-music-30k-vape-descartavel-portugal
+        - img "Fumot Tornado 30K Music - vapes descartáveis com luz, música e 30000 puffs" [ref=e59]
+        - generic:
+          - heading "Fumot Tornado 30K" [level=3]
+          - paragraph: Vape Descartável
+    - button "Slide seguinte" [ref=e60] [cursor=pointer]:
+      - img [ref=e61]
+  - generic [ref=e63]:
+    - generic [ref=e64]:
+      - heading "Fumot Eco 2 em 1 - 50K 50000 Puffs" [level=2] [ref=e65]
+      - generic [ref=e66]:
+        - generic [ref=e67]:
+          - paragraph [ref=e68]:
+            - text: O
+            - strong [ref=e69]: Fumot ECO 2in1 50K
+            - text: combina tecnologia avançada com uma experiência de vape estável para manter o sabor limpo da primeira à última utilização. Com resistência Mesh Coil de 0,9Ω, este vape descartável otimiza a vaporização do e-líquido, entrega vapor denso e uma sensação intensa na garganta. Além disso, o Fumot ECO 2in1 50K inclui uma bateria recarregável de 1100 mAh com USB-C e um ecrã LED inteligente para acompanhar a utilização em tempo real, tornando o Fumot ECO 2in1 50000 uma opção de cigarro eletrónico descartável de grande capacidade para adultos.
+          - link "COMPRAR AGORA" [ref=e71] [cursor=pointer]:
+            - /url: https://vapeportugal.pt/products/fumot-eco-50k-vape-descartavel-portugal
+        - img "Fumot Eco 2 em 1 - 50K - vape descartável com 50000 puffs e vapor intenso" [ref=e73]
+    - generic [ref=e74]:
+      - heading "Fumot Digital Monkey 40K 40000 Puffs" [level=2] [ref=e75]
+      - generic [ref=e76]:
+        - img "Fumot Digital Monkey 40K - vape com nicotina e 40000 puffs de sabor intenso" [ref=e78]
+        - generic [ref=e79]:
+          - paragraph [ref=e80]:
+            - text: O
+            - strong [ref=e81]: Fumot Digital Monkey 40K
+            - text: utiliza tecnologia Dual Mesh Coil para criar vapor denso e sabores autênticos do primeiro ao último puff. O sistema de duplo modo permite alternar entre Single (S), para uma utilização mais eficiente, e Dual (D), para maior intensidade quando procura um vape mais forte. Com bateria de 850 mAh, carregamento rápido USB-C e ecrã digital, o Fumot Digital Monkey 40000 posiciona-se entre os vapes descartáveis de alta capacidade mais completos. É uma evolução natural para vapers adultos que procuram autonomia, sabores de vape definidos e um formato prático.
+          - link "COMPRAR AGORA" [ref=e83] [cursor=pointer]:
+            - /url: https://vapeportugal.pt/products/fumot-digital-monkey-40k-vape-descartavel-portugal
+    - generic [ref=e84]:
+      - heading "RandM Tornado 9K 9000 Puffs" [level=2] [ref=e85]
+      - generic [ref=e86]:
+        - generic [ref=e87]:
+          - paragraph [ref=e88]:
+            - text: O
+            - strong [ref=e89]: RandM Tornado 9000
+            - text: usa tecnologia Mesh Coil, uma resistência de malha que distribui o calor de forma uniforme para preservar melhor as notas de cada e-líquido. Com carregamento USB-C, este vape permite aproveitar a autonomia até ao fim dos seus 9000 puffs sem depender de soluções complicadas. O RandM Tornado 9K é uma opção direta para quem procura um vape descartável com desempenho consistente e formato simples.
+          - link "COMPRAR AGORA" [ref=e91] [cursor=pointer]:
+            - /url: https://vapeportugal.pt/products/randm-tornado-9k-vape-descartavel-portugal
+          - paragraph
+        - img "RandM Tornado 9K - vape descartável com 9000 puffs e sabores de vape" [ref=e93]
+    - generic [ref=e94]:
+      - heading "Fumot Leopard 40K 40000 Puffs" [level=2] [ref=e95]
+      - generic [ref=e96]:
+        - img "Fumot Leopard 40K - cigarro eletrónico descartável com muitos puffs" [ref=e98]
+        - generic [ref=e99]:
+          - paragraph [ref=e100]:
+            - text: O
+            - strong [ref=e101]: Fumot Leopard 40K
+            - text: integra Dual Mesh Coil para uma vaporização uniforme do e-líquido, reforçando o sabor e produzindo vapor denso em cada utilização. O ecrã digital ajuda a acompanhar o nível da bateria e o estado do e-líquido, enquanto a bateria de 700 mAh com carregamento USB-C mantém o dispositivo pronto para o dia a dia. É um cigarro eletrónico descartável pensado para adultos que valorizam autonomia, praticidade e sabores bem definidos.
+          - link "COMPRAR AGORA" [ref=e103] [cursor=pointer]:
+            - /url: https://vapeportugal.pt/products/fumot-leopard-40k-vape-descartavel-portugal
+  - generic [ref=e104]:
+    - generic [ref=e105]: O seu navegador não suporta vídeo.
+    - generic [ref=e107]:
+      - 'heading "Fumot Eco 2 em 1 - 50K: muitos puffs, sabores de vape e cigarro eletrónico descartável" [level=1] [ref=e108]'
+      - paragraph [ref=e109]: Quer saber mais sobre os nossos vapes descartáveis?
+      - button "Ver mais" [ref=e110] [cursor=pointer]
+  - contentinfo [ref=e111]:
+    - generic [ref=e112]:
+      - link "Fumot - vapes descartáveis e cigarro eletrónico" [ref=e114] [cursor=pointer]:
+        - /url: https://vapeportugal.pt/
+        - img "Fumot - vapes descartáveis e cigarro eletrónico" [ref=e115]
+      - link [ref=e117] [cursor=pointer]:
+        - /url: https://vapeportugal.pt/
+        - img [ref=e118]
+      - link [ref=e121] [cursor=pointer]:
+        - /url: https://vapeportugal.pt/
+        - img [ref=e122]
+      - link [ref=e125] [cursor=pointer]:
+        - /url: https://vapeportugal.pt/
+        - img [ref=e126]
+    - generic [ref=e128]:
+      - generic [ref=e129]:
+        - generic [ref=e130]:
+          - link "Produtos" [ref=e131] [cursor=pointer]:
+            - /url: https://vapeportugal.pt/collections/fumot-vapes-descartaveis-portugal
+          - link "Eco 2W1 50K" [ref=e132] [cursor=pointer]:
+            - /url: https://vapeportugal.pt/products/fumot-eco-50k-vape-descartavel-portugal
+          - link "Tornado 15K" [ref=e133] [cursor=pointer]:
+            - /url: https://vapeportugal.pt/products/fumot-tornado-15k-vape-descartavel-portugal
+          - link "T9000" [ref=e134] [cursor=pointer]:
+            - /url: https://vapeportugal.pt/products/fumot-t9000-9k-vape-descartavel-portugal
+          - link "Tornado 9K" [ref=e135] [cursor=pointer]:
+            - /url: https://vapeportugal.pt/products/randm-tornado-9k-vape-descartavel-portugal
+          - link "Tornado 30K" [ref=e136] [cursor=pointer]:
+            - /url: https://vapeportugal.pt/products/fumot-tornado-music-30k-vape-descartavel-portugal
+          - link "Digital Box 12K" [ref=e137] [cursor=pointer]:
+            - /url: https://vapeportugal.pt/products/fumot-digital-box-12k-vape-descartavel-portugal
+          - link "Tornado 25K" [ref=e138] [cursor=pointer]:
+            - /url: https://vapeportugal.pt/products/fumot-tornado-25k-vape-descartavel-portugal
+          - link "Digital Monkey 40K" [ref=e139] [cursor=pointer]:
+            - /url: https://vapeportugal.pt/products/fumot-digital-monkey-40k-vape-descartavel-portugal
+          - link "Leopard 40K" [ref=e140] [cursor=pointer]:
+            - /url: https://vapeportugal.pt/products/fumot-leopard-40k-vape-descartavel-portugal
+        - generic [ref=e141]:
+          - link "Página Inicial" [ref=e142] [cursor=pointer]:
+            - /url: https://vapeportugal.pt/
+          - link "Sobre nós" [ref=e143] [cursor=pointer]:
+            - /url: https://vapeportugal.pt/pages/sobre-nos
+          - link "Contacto" [ref=e144] [cursor=pointer]:
+            - /url: https://vapeportugal.pt/pages/contacto
+          - link "Blog" [ref=e145] [cursor=pointer]:
+            - /url: https://vapeportugal.pt/blogs/news
+          - link "Perguntas frequentes" [ref=e146] [cursor=pointer]:
+            - /url: https://vapeportugal.pt/pages/perguntas-frequentes
+      - generic [ref=e147]:
+        - generic [ref=e148]:
+          - img [ref=e149]
+          - paragraph [ref=e151]: info@fumot.pt
+        - generic [ref=e152]:
+          - img [ref=e153]
+          - paragraph [ref=e155]: +351 210 000 000
+    - paragraph [ref=e158]: Fumot em Portugal ▼
+    - paragraph [ref=e160]: © 2026 Fumot.pt - Vapes descartáveis em Portugal. Produto destinado apenas a adultos.

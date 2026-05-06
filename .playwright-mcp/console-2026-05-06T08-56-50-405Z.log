@@ -1,0 +1,19 @@
+[    1861ms] [LOG] [v0] Floating image carousel initialized with 3 images @ http://127.0.0.1:8891/script.js:162
+[ 3976548ms] [WARNING] A preload for 'https://cdn.shopify.com/extensions/019db92d-c7a5-7448-8297-f820b28a81c0/menufrontend-314/assets/globo.menu.replace.js' is found, but is not used because the request credentials mode does not match. Consider taking a look at crossorigin attribute. @ https://vapeportugal.pt/collections/fumot-vapes-descartaveis-portugal:0
+[ 3980746ms] [LOG] [v0] Floating image carousel initialized with 3 images @ http://127.0.0.1:8891/script.js:162
+[ 3988646ms] [WARNING] A preload for 'https://cdn.shopify.com/extensions/019db92d-c7a5-7448-8297-f820b28a81c0/menufrontend-314/assets/globo.menu.replace.js' is found, but is not used because the request credentials mode does not match. Consider taking a look at crossorigin attribute. @ https://vapeportugal.pt/products/fumot-leopard-40k-vape-descartavel-portugal:0
+[ 3992819ms] [LOG] [v0] Floating image carousel initialized with 3 images @ http://127.0.0.1:8891/script.js:162
+[ 4516820ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://127.0.0.1:8891/images/Fumot-Eco-2-en-1-50K-Espana-Vaper-Desechable-Video-50000-Caladas.mp4:0
+[ 4519175ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://127.0.0.1:8891/images/Fumot-Eco-2-en-1-50K-Espana-Vaper-Desechable-Video-50000-Caladas.mp4:0
+[ 4521579ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://127.0.0.1:8891/images/Fumot-Eco-2-en-1-50K-Espana-Vaper-Desechable-Video-50000-Caladas.mp4:0
+[ 4524028ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://127.0.0.1:8891/images/Fumot-Eco-2-en-1-50K-Espana-Vaper-Desechable-Video-50000-Caladas.mp4:0
+[ 4526514ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://127.0.0.1:8891/images/Fumot-Eco-2-en-1-50K-Espana-Vaper-Desechable-Video-50000-Caladas.mp4:0
+[ 4529087ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://127.0.0.1:8891/images/Fumot-Eco-2-en-1-50K-Espana-Vaper-Desechable-Video-50000-Caladas.mp4:0
+[ 4531696ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://127.0.0.1:8891/images/Fumot-Eco-2-en-1-50K-Espana-Vaper-Desechable-Video-50000-Caladas.mp4:0
+[ 4534314ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://127.0.0.1:8891/images/Fumot-Eco-2-en-1-50K-Espana-Vaper-Desechable-Video-50000-Caladas.mp4:0
+[ 4537012ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://127.0.0.1:8891/images/Fumot-Eco-2-en-1-50K-Espana-Vaper-Desechable-Video-50000-Caladas.mp4:0
+[ 4539738ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://127.0.0.1:8891/images/Fumot-Eco-2-en-1-50K-Espana-Vaper-Desechable-Video-50000-Caladas.mp4:0
+[ 4542532ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://127.0.0.1:8891/images/Fumot-Eco-2-en-1-50K-Espana-Vaper-Desechable-Video-50000-Caladas.mp4:0
+[ 4545382ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://127.0.0.1:8891/images/Fumot-Eco-2-en-1-50K-Espana-Vaper-Desechable-Video-50000-Caladas.mp4:0
+[ 4548271ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://127.0.0.1:8891/images/Fumot-Eco-2-en-1-50K-Espana-Vaper-Desechable-Video-50000-Caladas.mp4:0
+[ 4551227ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://127.0.0.1:8891/images/Fumot-Eco-2-en-1-50K-Espana-Vaper-Desechable-Video-50000-Caladas.mp4:0
