@@ -50,11 +50,11 @@
       <!-- Desktop Menu -->
       <ul class="nav-menu">
         <li><a href="https://vapeportugal.pt/" class="nav-link">Página Inicial</a></li>
-        <li><a href="https://vapeportugal.pt/collections/fumot-vapes-descartaveis-portugal" class="nav-link">Produtos</a></li>
-        <li><a href="https://vapeportugal.pt/pages/sobre-nos" class="nav-link">Sobre nós</a></li>
-        <li><a href="https://vapeportugal.pt/blogs/news" class="nav-link">Blog</a></li>
-        <li><a href="https://vapeportugal.pt/pages/contacto" class="nav-link">Contacto</a></li>
-        <!-- <li><a href="https://vapeportugal.pt/pages/perguntas-frequentes" class="nav-link">Perguntas frequentes</a></li> -->
+        <li><a href="https://vapeportugal.pt/" class="nav-link">Produtos</a></li>
+        <li><a href="https://vapeportugal.pt/" class="nav-link">Sobre nós</a></li>
+        <li><a href="https://vapeportugal.pt/" class="nav-link">Blog</a></li>
+        <li><a href="https://vapeportugal.pt/" class="nav-link">Contacto</a></li>
+        <!-- <li><a href="https://vapeportugal.pt/" class="nav-link">Perguntas frequentes</a></li> -->
       </ul>
 
       <!-- Hamburger Menu Icon -->
@@ -72,15 +72,15 @@
 
       <div class="carousel-container">
         <div class="image-frame">
-          <div class="image-wrapper active">
+          <div class="image-wrapper active" data-product-url="https://vapeportugal.pt/products/fumot-eco-50k-vape-descartavel-portugal">
             <img src="images/products/Fumot-Eco-2-en-1-50K-Espana-Vaper-Desechable-Doble-Sabor-50000-Caladas.png"
               alt="Fumot Eco 2 em 1 - 50K - vape descartável com 50000 puffs e sabores de vape">
           </div>
-          <div class="image-wrapper">
+          <div class="image-wrapper" data-product-url="https://vapeportugal.pt/products/fumot-leopard-40k-vape-descartavel-portugal">
             <img src="images/products/Fumot-Leopard-40K-Espana-Vaper-Desechable-40000-Caladas.png"
               alt="Fumot Leopard 40K - cigarro eletrónico descartável com grande autonomia">
           </div>
-          <div class="image-wrapper">
+          <div class="image-wrapper" data-product-url="https://vapeportugal.pt/products/fumot-digital-monkey-40k-vape-descartavel-portugal">
             <img src="images/products/Fumot-Digital-Monkey-40K-Espana-Vaper-Desechable-40000-Caladas.png"
               alt="Fumot Digital Monkey 40K - vape com nicotina e 40000 puffs">
           </div>
@@ -91,7 +91,7 @@
 
       <div class="hero-buttons">
         <!-- <button class="btn btn-outline">Saber mais</button> -->
-        <button class="btn btn-primary"><a href="https://vapeportugal.pt/products/fumot-eco-50k-vape-descartavel-portugal">COMPRAR
+        <button class="btn btn-primary"><a id="heroProductLink" href="https://vapeportugal.pt/products/fumot-eco-50k-vape-descartavel-portugal">COMPRAR
             AGORA</a></button>
       </div>
     </div>
@@ -422,7 +422,7 @@
     <div class="footer-cont">
       <div class="foot-cont-one">
         <div class="cont-col">
-          <a href="https://vapeportugal.pt/collections/fumot-vapes-descartaveis-portugal">Produtos</a>
+          <a href="https://vapeportugal.pt/">Produtos</a>
           <a href="https://vapeportugal.pt/products/fumot-eco-50k-vape-descartavel-portugal">Eco 2W1 50K</a>
           <a href="https://vapeportugal.pt/products/fumot-tornado-15k-vape-descartavel-portugal">Tornado 15K</a>
           <a href="https://vapeportugal.pt/products/fumot-t9000-9k-vape-descartavel-portugal">T9000</a>
@@ -435,10 +435,10 @@
         </div>
         <div class="cont-col">
           <a href="https://vapeportugal.pt/" class="active">Página Inicial</a>
-          <a href="https://vapeportugal.pt/pages/sobre-nos">Sobre nós</a>
-          <a href="https://vapeportugal.pt/pages/contacto">Contacto</a>
-          <a href="https://vapeportugal.pt/blogs/news">Blog</a>
-          <a href="https://vapeportugal.pt/pages/perguntas-frequentes">Perguntas frequentes</a>
+          <a href="https://vapeportugal.pt/">Sobre nós</a>
+          <a href="https://vapeportugal.pt/">Contacto</a>
+          <a href="https://vapeportugal.pt/">Blog</a>
+          <a href="https://vapeportugal.pt/">Perguntas frequentes</a>
         </div>
       </div>
       <div class="foot-cont-two">
@@ -447,14 +447,14 @@
             <path
               d="M20 4H4C2.897 4 2 4.897 2 6V18C2 19.103 2.897 20 4 20H20C21.103 20 22 19.103 22 18V6C22 4.897 21.103 4 20 4ZM20 6L12 11L4 6H20ZM4 18V8L12 13L20 8V18H4Z" />
           </svg>
-          <p>info@fumot.pt</p>
+          <p>info@vapeportugal.pt</p>
         </div>
         <div>
           <svg class="contact-icon" viewBox="0 0 24 24">
             <path
               d="M6.62 10.79C8.06 13.74 10.26 15.94 13.21 17.38L15.41 15.18C15.8 14.79 16.37 14.66 16.85 14.82C18.27 15.28 19.8 15.5 21.38 15.5C21.83 15.5 22.18 15.85 22.18 16.3V21.5C22.18 21.95 21.83 22.3 21.38 22.3C10.54 22.3 2.7 14.46 2.7 3.62C2.7 3.17 3.05 2.82 3.5 2.82H8.7C9.15 2.82 9.5 3.17 9.5 3.62C9.5 5.2 9.72 6.73 10.18 8.15C10.34 8.63 10.21 9.2 9.82 9.59L7.62 11.79Z" />
           </svg>
-          <p>+351 210 000 000</p>
+          <p>+351 935 718 678</p>
         </div>
       </div>
     </div>

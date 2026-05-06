@@ -142,8 +142,17 @@ document.addEventListener('DOMContentLoaded', function () {
 
 // Image carousel logic
 const imageWrappers = document.querySelectorAll('.image-wrapper');
+const heroProductLink = document.getElementById('heroProductLink');
 let currentIndex = 0;
 const transitionInterval = 4000; // 4 seconds
+
+function updateHeroProductLink() {
+    const currentImage = imageWrappers[currentIndex];
+    const productUrl = currentImage ? currentImage.dataset.productUrl : '';
+    if (heroProductLink && productUrl) {
+        heroProductLink.href = productUrl;
+    }
+}
 
 function switchImage() {
     // Remove active class from current image
@@ -154,7 +163,10 @@ function switchImage() {
 
     // Add active class to next image
     imageWrappers[currentIndex].classList.add('active');
+    updateHeroProductLink();
 }
+
+updateHeroProductLink();
 
 // Start the automatic image switching
 setInterval(switchImage, transitionInterval);
